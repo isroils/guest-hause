@@ -1,0 +1,9 @@
+@media(max-width:790px) {
+    .img-magic {
+        max-width: 500px;
+    }
+
+    .card-magic__text {
+        max-width: 472px;
+    }
+}
